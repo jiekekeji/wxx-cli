@@ -27,17 +27,17 @@ npm start
 
 + 1、添加文件类型wxml 和 wxss. 点击 File - Settings - Editor - File Types;
 
-  配置wxml, 选中html - 点击加号 - 填入*.wxml
+    配置wxml, 选中html - 点击加号 - 填入*.wxml
     
-<div align="center">
-<img src="https://github.com/jiekekeji/my-notes/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%B0%8F%E7%A8%8B%E5%BA%8F-xxxx.png?raw=true" width="70%" >
-</div>
+    <div align="center">
+    <img src="https://github.com/jiekekeji/my-notes/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%B0%8F%E7%A8%8B%E5%BA%8F-xxxx.png?raw=true" width="70%" >
+    </div>
     
-   配置wxss, 选中Cascading Style Sheet - 点击加号 - 填入*.wxss
+    配置wxss, 选中Cascading Style Sheet - 点击加号 - 填入*.wxss
      
- <div align="center">
-   <img src="https://github.com/jiekekeji/my-notes/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%B0%8F%E7%A8%8B%E5%BA%8F-xxxx.png?raw=true" width="70%" >
- </div>
+    <div align="center">
+    <img src="https://github.com/jiekekeji/my-notes/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%B0%8F%E7%A8%8B%E5%BA%8F-xxxx.png?raw=true" width="70%" >
+    </div>
 
 + 2 添加代码提示  [jar下载](https://raw.githubusercontent.com/jiekekeji/my-notes/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/wecharCode.jar)
 
