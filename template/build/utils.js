@@ -4,6 +4,9 @@
  * @return Boolean 当前发生改变的文件是否为less文件
  **/
 function isLessFile(filepath) {
+  if (filepath.indexOf('node_modules') !== -1) {
+    return false
+  }
   //路径为空
   if (filepath === "") {
     return false;
